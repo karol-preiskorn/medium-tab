@@ -1,0 +1,16 @@
+.App {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  color: white;
+  padding: 20px;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.ui.selection.dropdown {
+  margin-bottom: 10px;
+}
